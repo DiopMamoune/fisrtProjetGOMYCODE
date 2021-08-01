@@ -1,0 +1,2 @@
+# fisrtProjetGOMYCODE
+initiation python
